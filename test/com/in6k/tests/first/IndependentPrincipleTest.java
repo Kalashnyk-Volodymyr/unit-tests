@@ -8,7 +8,7 @@ import org.junit.Test;
 
 public class IndependentPrincipleTest {
 
-    public static int result = 0;
+    public  int result = 0;
 
     @Test
     public void test2() throws Exception {
